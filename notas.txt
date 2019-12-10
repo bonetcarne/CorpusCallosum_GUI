@@ -1,0 +1,7 @@
+
+cambiar en archivo choose_dir
+
+output_save_path = "donde se quieren guardar los .mat"
+
+data_path = "donde se encuentren las imagenes"
+
